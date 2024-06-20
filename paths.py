@@ -1,0 +1,21 @@
+# PATHS TO ALL THE DIFFERENT FOLDERS #
+'''
+main_data = '/Users/ali/Downloads/P2_data/P2_data/'
+idealista_data = '/Users/ali/Downloads/P2_data/idealista'
+income_data = '/Users/ali/Downloads/P2_data/income_opendata'
+lookup_tables = '/Users/ali/Downloads/P2_data/lookup_tables'
+idealista_json = '/Users/ali/Downloads/P2_data/idealista_json'
+elections_data = '/Users/ali/Downloads/P2_data/elections_data'
+elections_json = '/Users/ali/Downloads/P2_data/elections_json'
+'''
+
+main_data = '/mnt/c/Users/xbara/Desktop/Master/Q2/BDM/BDM-P2/P2_data'
+idealista_data = '/mnt/c/Users/xbara/Desktop/Master/Q2/BDM/BDM-P2/P2_data/idealista'
+income_data = '/mnt/c/Users/xbara/Desktop/Master/Q2/BDM/BDM-P2/P2_data/income_opendata'
+lookup_tables = '/mnt/c/Users/xbara/Desktop/Master/Q2/BDM/BDM-P2/P2_data/lookup_tables'
+elections_data = '/mnt/c/Users/xbara/Desktop/Master/Q2/BDM/BDM-P2/P2_data/elections'
+idealista_json = '/mnt/c/Users/xbara/Desktop/Master/Q2/BDM/BDM-P2/P2_data/idealista_json'
+elections_json = '/mnt/c/Users/xbara/Desktop/Master/Q2/BDM/BDM-P2/P2_data/elections_json'
+
+predictive_data = '/mnt/c/Users/xbara/Desktop/Master/Q2/BDM/BDM-P2/P2_data/predictive'
+descriptive_data = '/mnt/c/Users/xbara/Desktop/Master/Q2/BDM/BDM-P2/P2_data/descriptive'
