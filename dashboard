@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Tableau Dashboard</title>
+    <script type='module' src='https://prod-uk-a.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script>
+</head>
+<body>
+    <tableau-viz id='tableau-viz' 
+                 src='https://prod-uk-a.online.tableau.com/t/aliciachimenobb8064bd9a/views/project_kpis/Dashboard1/c8489861-3200-4a2b-a18b-758b36946f9a/b6b9ba07-7ac7-488a-99bb-06ef131462bf' 
+                 width='1000' 
+                 height='863' 
+                 toolbar='bottom' >
+    </tableau-viz>
+</body>
+</html>
